@@ -1,0 +1,33 @@
+.call{
+	background: transparent;
+/*	font-size: 20px;
+*/
+	border-radius: 3px;
+	border-color: white;
+
+	color: white;
+
+}
+
+.navbar-text{
+	margin-left: 150px;
+	position: right
+}
+.nav-item{
+	text-align: center;
+	margin-left: 185px;	
+}
+.nav-link{
+	font-size: 20px;
+	color: white;
+
+}
+.sli1{
+
+	text-align: center;
+	font-size: 65px
+}
+.slider{
+
+	background-color: #007bff
+}
